@@ -74,7 +74,7 @@
     "@babel/core": "7.12.17",
     "@babel/preset-env": "7.12.17",
     "babel-eslint": "10.1.0",
-    "comlink": "git@github.com:batmilkyway/comlink.git",
+    "comlink": "git+ssh://git@github.com:batmilkyway/comlink.git",
     "eslint": "7.32.0",
     "html-webpack-plugin": "^5.5.0",
     "prettier": "2.1.2",
